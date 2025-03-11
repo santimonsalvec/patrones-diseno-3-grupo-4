@@ -1,0 +1,12 @@
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\bin\Debug\net8.0\MensajeriaNegocio.deps.json
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\bin\Debug\net8.0\MensajeriaNegocio.dll
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\bin\Debug\net8.0\MensajeriaNegocio.pdb
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.AssemblyInfo.cs
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.dll
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\refint\MensajeriaNegocio.dll
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\MensajeriaNegocio.pdb
+C:\Users\black\source\repos\MensajeriaNegocio\MensajeriaNegocio\obj\Debug\net8.0\ref\MensajeriaNegocio.dll

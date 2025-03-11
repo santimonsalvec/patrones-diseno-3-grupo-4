@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "APIMensajes.Controllers.MensajeController",
+    "Method": "EnviarMensaje",
+    "RelativePath": "api/Mensaje/enviarMensaje",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enviarMensaje",
+        "Type": "MensajeriaNegocio.Entidades.EnviarMensaje",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
