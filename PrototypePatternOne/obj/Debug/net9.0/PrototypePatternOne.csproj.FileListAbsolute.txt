@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\bin\Debug\net9.0\PrototypePatternOne.exe
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\bin\Debug\net9.0\PrototypePatternOne.deps.json
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\bin\Debug\net9.0\PrototypePatternOne.runtimeconfig.json
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\bin\Debug\net9.0\PrototypePatternOne.dll
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\bin\Debug\net9.0\PrototypePatternOne.pdb
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.AssemblyInfo.cs
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.dll
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\refint\PrototypePatternOne.dll
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.pdb
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\PrototypePatternOne.genruntimeconfig.cache
+C:\Users\User\Desktop\DesignPatternsCSharp\PrototypePatternOne\obj\Debug\net9.0\ref\PrototypePatternOne.dll
