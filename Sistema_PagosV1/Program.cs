@@ -14,7 +14,7 @@ namespace Sistema_PagosV1
 			var tarjeta = new TarjetaCredito();
 			var paypal = new Paypal();
 			var nuevoMetodo = new NuevoMetodoPago();
-			var adaptadorMetodoSistema = new AdaptadorNuevoMetodoPago(nuevoMetodo);
+			var adaptadorNuevoMetodoPago = new AdaptadorNuevoMetodoPago(nuevoMetodo);
 
 		
 			var plataforma = new PlataformaComercioElectronico();
@@ -22,7 +22,7 @@ namespace Sistema_PagosV1
 		
 			plataforma.ProcesarPago(tarjeta, 10000);  // Procesa con tarjeta de crédito
 			plataforma.ProcesarPago(paypal, 20000);   // Procesa con PayPal
-			plataforma.ProcesarPago(adaptadorMetodoSistema, 30000);  // Procesa con el nuevo sistema de pago
+			plataforma.ProcesarPago(adaptadorNuevoMetodoPago, 30000);  // Procesa con el nuevo Metodo de pago
 		}
 	}
 }
