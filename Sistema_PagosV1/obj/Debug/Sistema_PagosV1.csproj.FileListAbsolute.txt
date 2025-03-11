@@ -1,0 +1,7 @@
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\bin\Debug\Sistema_PagosV1.exe.config
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\bin\Debug\Sistema_PagosV1.exe
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\bin\Debug\Sistema_PagosV1.pdb
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\obj\Debug\Sistema_PagosV1.csproj.AssemblyReference.cache
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\obj\Debug\Sistema_PagosV1.csproj.CoreCompileInputs.cache
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\obj\Debug\Sistema_PagosV1.exe
+C:\Users\rdelgado\source\repos\Sistema_PagosV1\Sistema_PagosV1\obj\Debug\Sistema_PagosV1.pdb
