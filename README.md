@@ -2,6 +2,6 @@
 Asignación patrones de diseño 3 para el grupo 4 del diplomado de arquitectura de software de la Universidad de la Sabana
 
 # Integrantes:
-- Santiago Monsalve Calderón
+- CC 1.037600.004 Santiago Monsalve Calderón
 - Ricardo Delgado
 - Alejandro Farfán Montenegro

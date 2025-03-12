@@ -31,4 +31,12 @@
 *.out
 *.app
 
+# VScode
+*.cs
+*.cache
+*.editorconfig
+*.csproj.*
+*.pdb
+*.json
+*.vscode 
 *.vs/*
