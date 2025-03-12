@@ -4,3 +4,4 @@ Asignación patrones de diseño 3 para el grupo 4 del diplomado de arquitectura 
 # Integrantes:
 - Santiago Monsalve Calderón
 - Ricardo Delgado
+- Alejandro Farfán Montenegro
