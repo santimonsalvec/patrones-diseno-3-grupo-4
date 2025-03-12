@@ -1,0 +1,69 @@
+@startuml
+
+interface ICommand {
+    +void Execute()
+    +void Undo()
+}
+
+class Task {
+    +String Name
+    +boolean IsCompleted
+    +void markAsCompleted()
+}
+
+class TaskReceiver {
+    +void AddTask(Task task)
+    +void RemoveTask(Task task)
+    +void EditTask(Task task, String newName)
+    +void CompleteTask(Task task)
+    +void ShowTasks()
+}
+
+class Create {
+    -TaskReceiver _taskReceiver
+    -Task _task
+    +Create(TaskReceiver receiver, Task task)
+    +void Execute()
+    +void Undo()
+}
+
+class Edit {
+    -TaskReceiver _taskReceiver
+    -Task _task
+    -String _newName
+    +Edit(TaskReceiver receiver, Task task, String newName)
+    +void Execute()
+    +void Undo()
+}
+
+class Delete {
+    -TaskReceiver _taskReceiver
+    -Task _task
+    +Delete(TaskReceiver receiver, Task task)
+    +void Execute()
+    +void Undo()
+}
+
+class Complete {
+    -Task _task
+    +Complete(Task task)
+    +void Execute()
+    +void Undo()
+}
+
+class TaskInvoker {
+    -List<ICommand> _commands
+    -Stack<ICommand> _history
+    +void SetCommand(ICommand command)
+    +void ExecuteCommands()
+    +void UndoLastCommand()
+}
+
+TaskInvoker "1" -- "0..*" ICommand : manages
+ICommand <|.. Create
+ICommand <|.. Edit
+ICommand <|.. Delete
+ICommand <|.. Complete
+TaskReceiver "1" -- "0..*" Task : manages
+
+@enduml
