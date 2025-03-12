@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.sourcelink.json
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\bin\Debug\net8.0\Gestor_tareas.exe
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\bin\Debug\net8.0\Gestor_tareas.deps.json
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\bin\Debug\net8.0\Gestor_tareas.runtimeconfig.json
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\bin\Debug\net8.0\Gestor_tareas.dll
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\bin\Debug\net8.0\Gestor_tareas.pdb
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.dll
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\refint\Gestor_tareas.dll
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.pdb
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\Gestor_tareas.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\workspace\diplomado\patrones-diseno-3-grupo-4\Gestor_tareas\obj\Debug\net8.0\ref\Gestor_tareas.dll

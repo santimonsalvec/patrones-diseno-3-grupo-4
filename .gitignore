@@ -39,3 +39,4 @@
 *.pdb
 *.json
 *.vscode 
+*.vs/*
