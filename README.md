@@ -6,3 +6,8 @@ Asignación patrones de diseño 3 para el grupo 4 del diplomado de arquitectura 
 - Ricardo Delgado
 - Alejandro Farfán Montenegro
 - Oscar Quiroz Ortega
+
+# Ejercicio 6
+*Reto:* Decoración de habitaciones en un hotel
+*Patrón usado:* decorador
+*Argumento:* El patrón decorador permite añadir elementos de manera flexible y dinámica respetando el principio Open/Close y Single Responsability
