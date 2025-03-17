@@ -8,7 +8,9 @@ Asignación patrones de diseño 3 para el grupo 4 del diplomado de arquitectura 
 - Oscar Quiroz Ortega
 - Daniel Urueña Arbeláez
 
-![image](https://github.com/user-attachments/assets/8f82135f-8557-4fd6-bae7-45cfc9e937ad)
+
+![image](https://github.com/user-attachments/assets/78f724da-9ce4-4e5b-8385-97db0a183946)
+
 
 
 ### Ejercicio 6
