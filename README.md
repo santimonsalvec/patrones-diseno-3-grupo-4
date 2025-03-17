@@ -7,6 +7,7 @@ Asignación patrones de diseño 3 para el grupo 4 del diplomado de arquitectura 
 - Alejandro Farfán Montenegro
 - Oscar Quiroz Ortega
 - Daniel Urueña Arbeláez
+- Brian Estiven Guerrero Quilaguy
 
 ![image](https://github.com/user-attachments/assets/8f82135f-8557-4fd6-bae7-45cfc9e937ad)
 
