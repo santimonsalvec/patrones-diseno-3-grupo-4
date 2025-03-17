@@ -9,7 +9,7 @@ Asignación patrones de diseño 3 para el grupo 4 del diplomado de arquitectura 
 - Daniel Urueña Arbeláez
 - Brian Estiven Guerrero Quilaguy
 
-![image](https://github.com/user-attachments/assets/493ecf47-d3a9-44f6-839e-bc44c4d466a2)
+![image](https://github.com/user-attachments/assets/e089d3d4-083c-4a5c-800d-02ce4fbe6785)
 
 
 ### Ejercicio 6
